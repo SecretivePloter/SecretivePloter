@@ -26,6 +26,8 @@ I am interested in small, durable products at the intersection of data, interfac
 
 ### Build system
 
+![A cheerful build bot in motion](./assets/build-bot-loop.svg)
+
 ![Build system sequence: Make it work, make it right, make it faster](./assets/build-system-sequence.svg)
 
 > **Make it work. Make it right. Make it faster.**
