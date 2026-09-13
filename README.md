@@ -24,6 +24,14 @@
 
 I am interested in small, durable products at the intersection of data, interfaces, and real-world decisions.
 
+### Build system
+
+![Build system sequence: Make it work, make it right, make it faster](./assets/build-system-sequence.svg)
+
+> **Make it work. Make it right. Make it faster.**
+>
+> First prove the value, then make it dependable, then optimize with evidence.
+
 ### Current vectors
 
 - Building data-informed tools for Indonesian markets
