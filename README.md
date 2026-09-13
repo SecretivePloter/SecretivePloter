@@ -1,4 +1,4 @@
-<h1 align="center">Xu Que</h1>
+<h1 align="center">Kresna</h1>
 
 <p align="center">
   <strong>Digital tools builder · Web systems · Market intelligence</strong>
