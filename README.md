@@ -9,9 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SecretivePloter/ihsg-fear-greed">IHSG Fear &amp; Greed</a>
+  <a href="https://github.com/SecretivePloter/absensi">QR Attendance System</a>
   ·
-  <a href="https://github.com/SecretivePloter/kresna-portfolio">Portfolio</a>
+  <a href="https://github.com/SecretivePloter/SEIRI">SEIRI Scheduling</a>
+  ·
+  <a href="https://github.com/SecretivePloter/ihsg-fear-greed">IHSG Fear &amp; Greed</a>
 </p>
 
 ---
@@ -25,7 +27,7 @@ I am interested in small, durable products at the intersection of data, interfac
 ### Current vectors
 
 - Building data-informed tools for Indonesian markets
-- Designing fast, dependency-light web experiences
+- Designing operational software for real teams
 - Exploring practical AI workflows and internal tools
 - Turning vague operational problems into clear software
 
@@ -33,13 +35,13 @@ I am interested in small, durable products at the intersection of data, interfac
 
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
+| [QR Attendance System](https://github.com/SecretivePloter/absensi) | QR-based attendance for a Japanese language institute: kiosk scanning, admin dashboards, attendance records, and Excel export. | React · Supabase · Tailwind · QR |
+| [SEIRI Scheduling](https://github.com/SecretivePloter/SEIRI) | A single source of truth for Ichikara Sensei teaching schedules. | React · TypeScript · Supabase · Zustand |
 | [IHSG Fear & Greed](https://github.com/SecretivePloter/ihsg-fear-greed) | A static market-sentiment dashboard for Indonesian equities, with scheduled data updates. | JavaScript · Python · GitHub Actions |
-| [Kresna Portfolio](https://github.com/SecretivePloter/kresna-portfolio) | A minimal personal site that keeps the focus on work, not framework ceremony. | HTML · CSS · JavaScript |
-| [Rattan Furniture](https://github.com/SecretivePloter/rattanfurniture) | A product-focused web project for a furniture business. | Web development |
 
 ### Technical palette
 
-`JavaScript` `PHP` `Python` `HTML/CSS` `GitHub Actions` `Static deployments`
+`React` `TypeScript` `JavaScript` `Supabase` `Python` `GitHub Actions`
 
 ### A note on craft
 
