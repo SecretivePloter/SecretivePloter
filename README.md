@@ -1,11 +1,11 @@
 <h1 align="center">Kresna</h1>
 
 <p align="center">
-  <strong>Digital tools builder · Web systems · Market intelligence</strong>
+  <strong>Founder · Automation Engineer · AI Lead @ MugenWorkLabs</strong>
 </p>
 
 <p align="center">
-  I build focused software for people who prefer signal over noise.
+  Building trustworthy automation and applied AI systems for real operational problems.
 </p>
 
 <p align="center">
@@ -18,11 +18,17 @@
 
 ---
 
+### In brief
+
+- **Founder, Automation Engineer &amp; AI Lead** at **MugenWorkLabs** — designing automation and AI-enabled systems that reduce operational friction.
+- **B.Sc. Data Science student** — building stronger foundations in statistics, data systems, and decision-making.
+- **Full-time trader** — applying structured research, disciplined risk management, and post-trade review to markets.
+
 ### Operating thesis
 
 > Make the system legible. Automate the repetitive parts. Leave room for judgment.
 
-I am interested in small, durable products at the intersection of data, interfaces, and real-world decisions.
+I build systems that are useful in production: observable enough to inspect, simple enough to maintain, and deliberate enough to trust.
 
 ### Build system
 
@@ -34,12 +40,12 @@ I am interested in small, durable products at the intersection of data, interfac
 >
 > First prove the value, then make it dependable, then optimize with evidence.
 
-### Current vectors
+### How I work
 
-- Building data-informed tools for Indonesian markets
-- Designing operational software for real teams
-- Exploring practical AI workflows and internal tools
-- Turning vague operational problems into clear software
+- **Evidence before theater** — measure what matters, document the assumptions, and make decisions traceable.
+- **Correctness before speed** — ship the smallest useful solution, reinforce the critical paths, then optimize.
+- **Ownership over handoffs** — stay close to the problem from first sketch through working software.
+- **Calm under uncertainty** — use risk limits, feedback loops, and clear communication when information is incomplete.
 
 ### Selected work
 
@@ -51,11 +57,7 @@ I am interested in small, durable products at the intersection of data, interfac
 
 ### Technical palette
 
-`React` `TypeScript` `JavaScript` `Supabase` `Python` `GitHub Actions`
-
-### A note on craft
-
-I value software that is understandable under pressure: clear interfaces, modest abstractions, useful documentation, and an opinionated default that earns its complexity.
+`React` `TypeScript` `JavaScript` `Supabase` `Python` `GitHub Actions` `AI automation`
 
 <p align="center">
   <sub>Building in public, learning in public, shipping with intent.</sub>
